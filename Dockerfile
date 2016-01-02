@@ -100,6 +100,9 @@ EXPOSE  8126
 # Graphite web port
 EXPOSE 81
 
+#Carbon line port
+EXPOSE 2003
+
 
 
 # -------- #
